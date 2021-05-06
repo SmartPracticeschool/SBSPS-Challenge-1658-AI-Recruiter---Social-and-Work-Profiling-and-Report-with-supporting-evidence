@@ -14,7 +14,7 @@ watson_developer_cloud==2.10.1
 ibm_watson==4.5.0
 ibm_cos_sdk_core==2.6.3
 dash_core_components==1.10.1
-Flask_Cors==3.0.8
+Flask_Cors==3.0.9
 Flask==1.1.1
 pyresparser==1.0.6
 datefinder==0.7.1
